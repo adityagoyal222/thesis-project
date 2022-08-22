@@ -4,4 +4,4 @@ Aditya Goyal
 190096
 10268995
 
-Download the dataset used for the execution of project from https://www.kaggle.com/code/sukeshtech17/breast-detection-cnn
+Download the dataset used for the execution of project from https://www.kaggle.com/datasets/ambarish/breakhis
